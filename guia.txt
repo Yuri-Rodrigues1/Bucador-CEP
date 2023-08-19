@@ -1,0 +1,11 @@
+BUSCADOR DE CEP
+
+
+1 - Criar a pagina inicial e estilisar com css
+
+2 - criar um usestate para salvar as informações do campo de imput
+
+3 - criar a api usando o axios e adcionar um onclick no botão de pesquisa onde esse vai acessar uma função onde a api sera acionada
+
+4 - criar outro usestate e deixar o retorno dele como objeto para assim settar o userstate de acordo com o objeto que a api vai gerar,
+assim as informações do cep estarão junto ao userstate e passar essas informações para o campo que vai mostrar as informações para o usuario.
